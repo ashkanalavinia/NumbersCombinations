@@ -13,4 +13,3 @@ func main() {
 		fmt.Printf("%d%d%d\n", data[c[0]], data[c[1]], data[c[2]])
 	}
 }
-
